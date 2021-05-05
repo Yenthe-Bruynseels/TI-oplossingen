@@ -131,7 +131,7 @@ indépendant
 18. Ainis, ... (view) et le modèle peuvent être réutilisés.
 
 ```
-vue
+la vue
 ```
 
 19. Si tout est indépendant, on peut ... (delen) les tâches.
@@ -187,7 +187,7 @@ Het geluid afzetten
 4. Retourner à l écran d accueil (niet-foutief)
 
 ```
-terugkeren naar het startscherm
+terugkeren naar het startscherm (oplossing toledo: terug naar de homepage gaan)
 ```
 
 5. Finir le jeu
@@ -205,7 +205,7 @@ Een spel maken
 7. Envoyer une information 
 
 ```
-Een informatie sturen
+Een informatie opsturen (ja, "een informatie", het moet erbij...)
 ```
 
 8. Démarrer une nouvelle partie (nieuwe ipv nieuw)
@@ -260,7 +260,7 @@ Op een knopje klikken
 16. Arriver à l'écran de jeu
 
 ```
-op het spelscherm aankomen 
+op het spelscherm toekomen 
 ```
 
 17. Sélectionner un jeu 
