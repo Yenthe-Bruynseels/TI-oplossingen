@@ -108,7 +108,7 @@ Bij het gebruik van deze oplossingenlijst gaat u automatisch akkoord met de volg
 10. Une carte mère - 
 
     ```
-    een moederbord
+    een moederbord (een moederboord voor een correct antwoord in de vertaaloefeningen op toledo, toch in de oefeningen van academiejaar 2020)
     ```
 
     
