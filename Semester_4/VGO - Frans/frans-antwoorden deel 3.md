@@ -363,7 +363,7 @@ un framework
 une couche
 ```
 
-10. een klas --fout
+10. een klas
 
 ```
 une classe
@@ -393,10 +393,10 @@ un outil
 un bouton
 ```
 
-15.  een textbox  --fout
+15.  een textbox
 
 ```
-une fenêtre de texte
+une zone de texte
 ```
 
 16. een eigenschap 
@@ -477,10 +477,10 @@ une case vide
 une case pleine 
 ```
 
-29. een puzzel  --fout
+29. een puzzel
 
 ```
-un casse-tête
+un puzzle
 ```
 
 30. een puzzelspel 
